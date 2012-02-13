@@ -234,7 +234,7 @@ s -->
 
     <!-- Clings -->
     <!-- The title text for the workspace cling [CHAR_LIMIT=none] -->
-    <string name="workspace_cling_title">Make yourself at home</string>
+    <string name="workspace_cling_title">Welcome to XenonHD</string>
     <!-- The description of how to use the workspace [CHAR_LIMIT=none] -->
     <string name="workspace_cling_move_item">You can put your favorite apps here.</string>
     <!-- The description of how to open all apps from the workspace [CHAR_LIMIT=none] -->
@@ -323,12 +323,6 @@ s -->
     <string name="preferences_interface_drawer_indicator_enable_summary">Show current page indicator at the bottom of the screen</string>
     <string name="preferences_interface_drawer_indicator_fade_title">Fade Indicator</string>
     <string name="preferences_interface_drawer_indicator_fade_summary">Fade the indicator after the page has changed</string>
-
-    <!-- Dock -->
-    <string name="preferences_interface_dock_title">Dock</string>
-
-    <!-- Icons -->
-    <string name="preferences_interface_icons_title">Icons</string>
 
     <!-- General -->
     <string name="preferences_interface_general_title">General</string>
