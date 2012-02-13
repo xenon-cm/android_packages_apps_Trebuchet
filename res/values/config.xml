@@ -31,8 +31,8 @@
     <integer name="config_appsCustomizeZoomInTime">350</integer>
     <integer name="config_appsCustomizeZoomOutTime">600</integer>
     <integer name="config_appsCustomizeZoomScaleFactor">7</integer>
-    <integer name="config_appsCustomizeFadeInTime">250</integer>
-    <integer name="config_appsCustomizeFadeOutTime">200</integer>
+    <integer name="config_appsCustomizeFadeInTime">200</integer>
+    <integer name="config_appsCustomizeFadeOutTime">150</integer>
     <integer name="config_appsCustomizeWorkspaceShrinkTime">300</integer>
     <integer name="config_appsCustomizeWorkspaceAnimationStagger">40</integer>
     <integer name="config_workspaceAppsCustomizeAnimationStagger">100</integer>
